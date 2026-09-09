@@ -15,7 +15,7 @@
     "finale_message": "Come visit the USA next time!\n다음에는 미국에서 만나요!",
     "first_item": "pencil",
     "inventory": {
-      "pencil": "no",
+      "pencil": "yes",
       "pen": "yes",
       "book": "yes",
       "eraser": "no",
