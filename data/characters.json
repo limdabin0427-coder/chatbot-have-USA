@@ -83,12 +83,12 @@
     "tts": {
       "provider": "openai",
       "model": "gpt-4o-mini-tts",
-      "voice": "nova",
-      "instructions": "Speak in a friendly, confident, and upbeat voice. Use a clear, lively tone and a natural pace for Korean third-grade English learners. Smile while speaking. Do not sound too mature or formal. Do not add or change any words.",
+      "voice": "coral",
+      "instructions": "Speak in a very bright, bubbly, playful, and energetic voice. Use a noticeably higher pitch, a light tone, and a quick lively rhythm. Sound excited and smile while speaking. Avoid sounding calm, mature, soft, or formal. Speak clearly for Korean third-grade English learners. Do not add or change any words.",
       "gender": "female",
       "child_mode": true,
       "rate": 0.85,
-      "pitch": 1.35
+      "pitch": 1.45
     }
   }
 }
