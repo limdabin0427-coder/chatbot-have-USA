@@ -1,0 +1,57 @@
+{
+  "USA": {
+    "name": "Kate",
+    "name_aliases": ["Kait", "Cate", "Cait", "cake", "gate"],
+    "country": "USA",
+    "age": 10,
+    "gender": "female",
+    "emoji": "🇺🇸",
+    "sheet_tab": "USA",
+    "landing_title": "Hello, Korea!",
+    "home_url": "https://welcome-to-korea.lovable.app",
+    "intro_message": "Nice to meet you. I'm Kate. I'm from the USA. I'm visiting your school today.",
+    "intro_speech": "Hi! Nice to meet you. I'm Kate. I'm from the USA. I'm visiting your school today.",
+    "ending_message": "Great job! Thank you for helping me. Come visit the USA next time! See you!",
+    "finale_message": "Come visit the USA next time!\n다음에는 미국에서 만나요!",
+    "first_item": "pencil",
+    "inventory": {
+      "pencil": "no",
+      "ruler": "yes",
+      "eraser": "no",
+      "pencil_case": "yes",
+      "book": "yes",
+      "notebook": "no",
+      "bag": "yes",
+      "ball": "no",
+      "cap": "yes",
+      "toy": "no",
+      "card": "yes"
+    },
+    "images": {
+      "flag": "USA flag.gif",
+      "intro_background": "school background 1.gif",
+      "backgrounds": [
+        "school 1.png",
+        "school 2.png",
+        "school 3.png",
+        "school 4.png"
+      ],
+      "character": {
+        "greeting": "greeting.gif",
+        "speaking": "speaking.gif",
+        "yes": "yes.gif",
+        "no": "no.gif"
+      }
+    },
+    "tts": {
+      "provider": "openai",
+      "model": "gpt-4o-mini-tts",
+      "voice": "coral",
+      "instructions": "Speak as a cheerful and friendly young American girl. Use clear American English, a warm natural tone, and a gentle pace for Korean third-grade English learners. Do not add or change any words.",
+      "gender": "female",
+      "child_mode": true,
+      "rate": 0.85,
+      "pitch": 1.35
+    }
+  }
+}
