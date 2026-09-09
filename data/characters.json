@@ -83,8 +83,8 @@
     "tts": {
       "provider": "openai",
       "model": "gpt-4o-mini-tts",
-      "voice": "coral",
-      "instructions": "Speak as a cheerful and friendly young American girl. Use clear American English, a warm natural tone, and a gentle pace for Korean third-grade English learners. Do not add or change any words.",
+      "voice": "nova",
+      "instructions": "Speak in a friendly, confident, and upbeat voice. Use a clear, lively tone and a natural pace for Korean third-grade English learners. Smile while speaking. Do not sound too mature or formal. Do not add or change any words.",
       "gender": "female",
       "child_mode": true,
       "rate": 0.85,
