@@ -84,7 +84,7 @@
       "provider": "openai",
       "model": "gpt-4o-mini-tts",
       "voice": "coral",
-      "instructions": "Speak in a very bright, bubbly, playful, and energetic voice. Use a noticeably higher pitch, a light tone, and a lively rhythm. Sound excited and smile while speaking. Avoid sounding calm, mature, soft, or formal. Speak clearly for Korean third-grade English learners. Do not add or change any words.",
+      "instructions": "Speak in a bright, friendly, and youthful voice with a light tone and a gentle smile. Keep a calm, steady, and natural rhythm at a relaxed pace. Sound cheerful, but not bubbly, overly energetic, rushed, or exaggerated. Avoid sounding mature, deep, or formal. Speak clearly for Korean third-grade English learners. Read every sentence completely without skipping the final words. Do not add or change any words.",
       "gender": "female",
       "child_mode": true,
       "rate": 0.85,
