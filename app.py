@@ -697,7 +697,7 @@ def question_retry_response(stage, original, ambiguous=False):
             stage,
             original=original,
             corrected="",
-            speech_reply='Say it slowly. "Do you... have...?"',
+            speech_reply='Say it slowly. "Do you... have?"',
         )
 
     retry_examples = CHARACTER.get("retry_examples", {})
